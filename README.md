@@ -17,3 +17,4 @@ Ahoj
 si
 
 pivko
+Dneska bude bageta :-(
