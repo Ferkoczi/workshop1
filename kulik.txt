@@ -1,7 +1,17 @@
 bla bla bla
-prd prd
-ble ble
+kdo udělá prd prd 
+ tak další dělají ble ble
 oo
 uu
+<<<<<<< HEAD
 Měním všchno
 koko
+=======
+
+<<<<<<< HEAD
+koko
+t
+=======
+kuku
+>>>>>>> 3718fec46ea7f5503b42a6d1444892921ba851e5
+>>>>>>> 6e3f04d7078423fc49565147ae1a2f58f4b6bcc5
