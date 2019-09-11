@@ -1,6 +1,9 @@
 ## Mám hlad
 
 Moje zmeny
+tlačenka s cibulí, játra s pejskem
+
+abcd
 
 ## Kdo si hraje nezlobí
 Což
@@ -9,6 +12,7 @@ takhle
 ## Meteleskublesku
 dát
 
+Ahoj
 ## Metalíza je zpět?
 si
 
