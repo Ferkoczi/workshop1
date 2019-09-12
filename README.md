@@ -16,3 +16,4 @@ Ahoj
 si
 
 Dneska bude bageta :-(
+hlad, hlad, hlad
