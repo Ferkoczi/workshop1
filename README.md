@@ -1,5 +1,6 @@
 ## Mám hlad
 
+Moje zmeny
 tlačenka s cibulí, játra s pejskem
 
 abcd
@@ -17,3 +18,5 @@ si
 
 Dneska bude bageta :-(
 hlad, hlad, hlad
+pivko
+Dneska bude bageta :-(
