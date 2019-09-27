@@ -4,6 +4,7 @@ kdo udělá prd prd
 oo
 uu
 <<<<<<< HEAD
+uprava kulika
 Měním všchno
 koko
 =======
