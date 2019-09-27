@@ -1,15 +1,17 @@
 bla bla bla
-kdo udělá prd prd 
+kdo udělá prd prd
  tak další dělají ble ble
 oo
 uu
 <<<<<<< HEAD
+uprava kulika
 Měním všchno
 koko
-=======
-erertwer
+oiwueroiweur
+weowieurowerrrrrrrr     ====
+erertwerrrrrrrrrrrwfdfsd 
 
-koko
+fko
 t
 
 aerw
@@ -20,3 +22,5 @@ kuku
 >>>>>>> 6e3f04d7078423fc49565147ae1a2f58f4b6bcc5
 =======
 >>>>>>> 0738373f6ac76ca86d31d6a84793f0048158f940
+
+Klik vsu
