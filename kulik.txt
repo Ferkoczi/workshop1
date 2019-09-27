@@ -3,7 +3,18 @@ kdo udělá prd prd
  tak další dělají ble ble
 oo
 uu
+<<<<<<< HEAD
 <fffffffffsdfdsfd fdsf
+=======
+<<<<<<< HEAD
+uprava kulika
+Měním všchno
+koko
+oiwueroiweur
+weowieurowerrrrrrrr     ====
+erertwerrrrrrrrrrrwfdfsd 
+
+>>>>>>> 946da6b78f77f309cb44857be1820289ba974ab3
 fko
 t
 
