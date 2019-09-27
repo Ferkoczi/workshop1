@@ -1,11 +1,13 @@
 bla bla bla
-kdo udělá prd prd 
+kdo udělá prd prd
  tak další dělají ble ble
 oo
 uu
 <<<<<<< HEAD
 Měním všchno
 koko
+oiwueroiweur
+weowieurowe
 =======
 
 koko
