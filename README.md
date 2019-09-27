@@ -20,3 +20,5 @@ Dneska bude bageta :-(
 hlad, hlad, hlad
 pivko
 Dneska bude bageta :-(
+
+🍕🍕🍕🍕
