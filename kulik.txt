@@ -3,28 +3,21 @@ kdo udělá prd prd
  tak další dělají ble ble
 oo
 uu
-<<<<<<< HEAD
+
 <fffffffffsdfdsfd fdsf
-=======
-<<<<<<< HEAD
 uprava kulika
 Měním všchno
 koko
 oiwueroiweur
-weowieurowerrrrrrrr     ====
-erertwerrrrrrrrrrrwfdfsd 
+weowieurowerrrrrrrr
+erertwerrrrrrrrrrrwfdfsd
 
->>>>>>> 946da6b78f77f309cb44857be1820289ba974ab3
+fko abcd
+
 fko
 t
 
 aerw
-<<<<<<< HEAD  sdfsdf  sdfsdfsd
-=======
 kuku
->>>>>>> 3718fec46ea7f5503b42a6d1444892921ba851e5
->>>>>>> 6e3f04d7078423fc49565147ae1a2f58f4b6bcc5
-=======
->>>>>>> 0738373f6ac76ca86d31d6a84793f0048158f940
 
 Klik vsu
