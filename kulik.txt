@@ -3,18 +3,12 @@ kdo udělá prd prd
  tak další dělají ble ble
 oo
 uu
-<<<<<<< HEAD
-Měním všchno
-koko
-oiwueroiweur
-weowieurowerrrrrrrr     ====
-erertwerrrrrrrrrrrwfdfsd 
-
+<fffffffffsdfdsfd fdsf
 fko
 t
 
 aerw
-<<<<<<< HEAD
+<<<<<<< HEAD  sdfsdf  sdfsdfsd
 =======
 kuku
 >>>>>>> 3718fec46ea7f5503b42a6d1444892921ba851e5
