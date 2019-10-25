@@ -6,6 +6,12 @@ kdo udělá prd prd
 oo
 uu
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+<fffffffffsdfdsfd fdsf
+uprava kulika aby byl ještě lepší
+>>>>>>> 882c6cd8c9defb1520507192b5aebb0d1a8a3058
 Měním všchno
 koko
 =======
